@@ -67,8 +67,7 @@ const Hero = ({
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
                 Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
                 </p>
-    <iframe width="100%" height="360" frameborder="0" src="https://app.livestorm.co/p/1076e670-4047-485a-af06-5695461851b8/form" title="The Impact of COVID-19 on Covid Treatment And Screening | livetorm Test jamil"></iframe>
-              <div className="reveal-from-bottom" data-reveal-delay="600">
+<iframe width="100%" height="360" frameborder="0" src="https://app.livestorm.co/p/37619526-2e99-4743-b8ff-2db0d68b10fb/form" title="test cc | livetorm Test jamil"></iframe>              <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
                     Get started
