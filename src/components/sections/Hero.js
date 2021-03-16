@@ -95,8 +95,7 @@ const Hero = ({
                 height={504} />
             </a>
           </div>
-        </div>
-      </div>
+
     </section>
   );
 }
