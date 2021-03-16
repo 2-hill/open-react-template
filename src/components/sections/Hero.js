@@ -67,7 +67,7 @@ const Hero = ({
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
                 Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
                 </p>
-<iframe width="100%" height="400" frameborder="0" src="https://app.livestorm.co/livetorm/upcoming?limit=3" title="Événements livetorm Test jamil | Livestorm"></iframe>                <ButtonGroup>
+                  <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
                     Get started
                     </Button>
@@ -78,6 +78,8 @@ const Hero = ({
               </div>
             </div>
           </div>
+    <iframe width="100%" height="400" frameborder="0" src="https://app.livestorm.co/livetorm/upcoming?limit=3" title="Événements livetorm Test jamil | Livestorm"></iframe>
+
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
               data-video="https://player.vimeo.com/video/174002812"
