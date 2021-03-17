@@ -79,8 +79,7 @@ const Hero = ({
               </div>
             </div>
           </div>
-    <iframe width="100%" height="400" frameborder="0" src="https://app.livestorm.co/livetorm/upcoming?limit=3" title="Événements livetorm Test jamil | Livestorm"></iframe>
-          <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
+<iframe width="100%" height="400" frameborder="0" src="https://app.livestorm.co/kurmi-software/upcoming?limit=6" title="Événements Kurmi Software | Livestorm"></iframe>          <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
               data-video="https://player.vimeo.com/video/174002812"
               href="#0"
